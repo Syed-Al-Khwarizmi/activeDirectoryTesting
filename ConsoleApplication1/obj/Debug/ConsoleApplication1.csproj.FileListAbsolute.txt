@@ -1,0 +1,6 @@
+F:\Work\KannyTechnologies\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Work\KannyTechnologies\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Work\KannyTechnologies\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Work\KannyTechnologies\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\Work\KannyTechnologies\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Work\KannyTechnologies\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
