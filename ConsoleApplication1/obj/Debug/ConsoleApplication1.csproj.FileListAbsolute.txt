@@ -4,3 +4,9 @@ F:\Work\KannyTechnologies\ConsoleApplication1\ConsoleApplication1\bin\Debug\Cons
 F:\Work\KannyTechnologies\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 F:\Work\KannyTechnologies\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 F:\Work\KannyTechnologies\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Ali_H\Source\Repos\activeDirectoryTesting\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Ali_H\Source\Repos\activeDirectoryTesting\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Ali_H\Source\Repos\activeDirectoryTesting\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Ali_H\Source\Repos\activeDirectoryTesting\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Ali_H\Source\Repos\activeDirectoryTesting\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Ali_H\Source\Repos\activeDirectoryTesting\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

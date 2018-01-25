@@ -23,7 +23,7 @@ namespace ConsoleApplication1
             if (entry == null || entry.Parent == null) return null;
             using (DirectoryEntry parent = entry.Parent)
             {
-                if (ldap_get_value<string>(parent.Properties["objectClass"]) == "domainDNS")
+                if (ldap_get_value<string>(parent.Properties["objectClass"]) == "LDAP://rootDSE")
                     return ldap_get_value<string>(parent.Properties["dc"]);
                 else
                     return ldap_get_domainname(parent);
@@ -35,11 +35,11 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             string[] _properties = new string[] { "objectClass", "distinguishedName", "samAccountName", "userPrincipalName", "displayName", "mail", "title", "company", "thumbnailPhoto", "useraccountcontrol" };
-            string account = "my-user-name";
+            string account = "ali_h";
             // OR even better:
             // string account = "my-user-name@DOMAIN.local";
 
-            using (DirectoryEntry ldap = new DirectoryEntry())
+            using (DirectoryEntry ldap = new DirectoryEntry("LDAP://rootDSE"))
             {
                 using (DirectorySearcher searcher = new DirectorySearcher(ldap))
                 {
